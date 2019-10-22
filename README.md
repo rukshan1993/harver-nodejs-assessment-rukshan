@@ -1,5 +1,25 @@
-Harver JS Exercise
+Harver JS Exercise - Rukshan Fernando
 ============================
+
+## Steps to execute each task
+
+Set FALSE to console.log output
+```
+const WRITE_TO_FILE = false;
+```
+
+
+Uncomment each function to see the results for corresponding task.
+```
+taskOne();
+// taskTwo();
+// taskThree_A();
+// taskThree_B();
+// taskFour_A();
+// taskFour_B();
+```
+
+<h3>&#x1F534; All the bonus points are implemented in the code</h3>
 
 ## Get started
 
